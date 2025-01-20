@@ -1,0 +1,44 @@
+{
+    // Window and General UI
+    "window.commandCenter": true,
+    "window.autoDetectColorScheme": true,
+    "update.showReleaseNotes": false,
+
+    // Workbench & Activity Bar
+    "workbench.activityBar.orientation": "vertical",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.tips.enabled": false,
+    "workbench.preferredLightColorTheme": "GitHub Light",
+    "workbench.preferredDarkColorTheme": "GitHub Dark",
+
+    // Editor Settings
+    "editor.stickyScroll.enabled": false,
+    "workbench.tree.enableStickyScroll": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.hover.enabled": false,
+    "editor.lightbulb.enabled": "off",
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.wordSeparators": "`~!@#$%^&*()-_=+[{]}\\|;:'\",.<>/?",
+
+    // File Settings
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+
+    // Explorer Settings
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+
+    // Git Settings
+    "git.autofetch": true,
+    "git.autofetchPeriod": 30,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.rebaseWhenSync": true,
+
+    // Extensions & Terminal Settings
+    "extensions.ignoreRecommendations": true,
+    "terminal.integrated.enablePersistentSessions": false
+}
